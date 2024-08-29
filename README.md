@@ -39,11 +39,13 @@ Data Analysis:
 
 # Code Overview
 
-API Request: api_runner() function makes a GET request to the CoinMarketCap API and handles exceptions.
-    Data Processing: Data is normalized and appended to a DataFrame. The DataFrame is optionally saved to a CSV file.
-    Visualization:
+- API Request: api_runner() function makes a GET request to the CoinMarketCap API and handles exceptions.
+  
+- Data Processing: Data is normalized and appended to a DataFrame. The DataFrame is optionally saved to a CSV file.
+- Visualization:
         Trend Analysis: Plots percentage changes over different time periods for various cryptocurrencies.
         Price Trend: Creates a line plot of Bitcoin prices over time.
+  
 The notebook may require adjustments based on your environment and API access.
     If you encounter rate limits or connection issues, consider adjusting the sleep duration or handling exceptions more robustly.
 
