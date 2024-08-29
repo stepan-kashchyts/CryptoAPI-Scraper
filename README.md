@@ -43,6 +43,7 @@ Data Analysis:
   
 - Data Processing: Data is normalized and appended to a DataFrame. The DataFrame is optionally saved to a CSV file.
 - Visualization:
+  
         Trend Analysis: Plots percentage changes over different time periods for various cryptocurrencies.
         Price Trend: Creates a line plot of Bitcoin prices over time.
   
