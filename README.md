@@ -1,5 +1,4 @@
 # CryptoAPI-Scraper
-# Cryptocurrency Data Analysis
 
 This repository contains a Jupyter Notebook for retrieving and analyzing cryptocurrency data using the CoinMarketCap API. The notebook performs the following tasks:
 
