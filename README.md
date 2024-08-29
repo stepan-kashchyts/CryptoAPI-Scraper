@@ -46,3 +46,8 @@ API Request: api_runner() function makes a GET request to the CoinMarketCap API 
         Price Trend: Creates a line plot of Bitcoin prices over time.
 The notebook may require adjustments based on your environment and API access.
     If you encounter rate limits or connection issues, consider adjusting the sleep duration or handling exceptions more robustly.
+
+# Notes
+
+Replace placeholders like `'YOUR_API_KEY'`, `[Your Name]`, and `your.email@example.com` with your actual information. Adjust any sections as necessary to better fit your specific project details.
+
